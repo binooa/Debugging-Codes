@@ -146,6 +146,7 @@ return 0;
 8.  quit or q –> exits out of gdb
 9.  clear –> to clear all breakpoints
 10. continue –> continue normal execution
+11. set x=0
 
 
 
