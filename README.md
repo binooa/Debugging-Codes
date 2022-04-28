@@ -137,16 +137,16 @@ return 0;
 ## gdb commands
 
 1.  **run** or **r**    –> executes the program from start to end
-2.  break or b  –> sets breakpoint on a particular line
-3.  disable     -> disable a breakpoint
-4.  enable      –> enable a disabled breakpoint
-5.  next or n   -> executes next line of code, but don’t dive into functions
-6.  list or l   –> displays the code
-7.  print or p  –> used to display the stored value
-8.  quit or q   –> exits out of gdb
-9.  clear       –> to clear all breakpoints
-10. continue    –> continue normal execution
-11. set x=0
+2.  **break** or **b**  –> sets breakpoint on a particular line
+3.  **disable**     -> disable a breakpoint
+4.  **enable**      –> enable a disabled breakpoint
+5.  **next** or **n**   -> executes next line of code, but don’t dive into functions
+6.  **list** or **l**   –> displays the code
+7.  **print** or **p**  –> used to display the stored value
+8.  **quit** or **q**   –> exits out of gdb
+9.  **clear**       –> to clear all breakpoints
+10. **continue**    –> continue normal execution
+11. **set** x=0
 
 
 
