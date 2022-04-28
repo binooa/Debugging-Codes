@@ -81,8 +81,10 @@ int main()
 ## Example code for Symantic Error
 
 1.  Use of a un-initialized variable.
+    ```C
        int i;
        i=i+2;
+    ```
 2.  Type compatibility
         int b = "javatpoint";
 3.  Errors in expressions
