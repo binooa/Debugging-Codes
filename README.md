@@ -136,7 +136,7 @@ return 0;
 
 ## gdb commands
 
-1.  *run* or *r*    –> executes the program from start to end
+1.  **run** or **r**    –> executes the program from start to end
 2.  break or b  –> sets breakpoint on a particular line
 3.  disable     -> disable a breakpoint
 4.  enable      –> enable a disabled breakpoint
