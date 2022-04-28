@@ -77,3 +77,30 @@ int main()
     return 0;  
 }  
 ```
+
+## Example code for Symantic Error
+
+Use of a un-initialized variable.
+int i;
+i=i+2;
+Type compatibility
+int b = "javatpoint";
+Errors in expressions
+int a, b, c;
+a+b = c;
+Array index out of bound
+int a[10];
+a[10] = 34;
+
+```C
+#include <stdio.h>  
+int main()  
+{  
+int a,b,c;  
+a=2;  
+b=3;  
+c=1;  
+a+b=c; // semantic error  
+return 0;  
+}  
+```
