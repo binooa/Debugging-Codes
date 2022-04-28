@@ -80,12 +80,12 @@ int main()
 
 ## Example code for Symantic Error
 
-Use of a un-initialized variable.
-int i;
-i=i+2;
-Type compatibility
-int b = "javatpoint";
-Errors in expressions
+1.  Use of a un-initialized variable.
+       int i;
+       i=i+2;
+2.  Type compatibility
+        int b = "javatpoint";
+3.  Errors in expressions
 int a, b, c;
 a+b = c;
 Array index out of bound
