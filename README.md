@@ -5,9 +5,9 @@
  
 There are mainly five types of errors exist in C programming:
 
-*Syntax error
-*Run-time error
-*Linker error
-*Logical error
-*Semantic error
+-Syntax error
+-Run-time error
+-Linker error
+-Logical error
+-Semantic error
  
