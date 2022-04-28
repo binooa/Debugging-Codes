@@ -86,13 +86,23 @@ int main()
        i=i+2;
     ```
 2.  Type compatibility
+    ```C
         int b = "javatpoint";
+    ```
 3.  Errors in expressions
-int a, b, c;
-a+b = c;
-Array index out of bound
-int a[10];
-a[10] = 34;
+
+    ```C
+        int a, b, c;
+        a+b = c;
+    ```
+
+4.  Array index out of bound
+
+    ```C
+        int a[10];
+        a[10] = 34;
+    ```
+
 
 ```C
 #include <stdio.h>  
